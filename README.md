@@ -163,10 +163,3 @@ Response Example:
 ```
 Notes & Recommendations
 SPARQL Endpoint: All queries use the official DBpedia SPARQL endpoint. Ensure you have a stable internet connection and be mindful of query performance.
-
-MIT License (adjust if you have a specific license file).
-
-Contributing
-Fork the repository.
-Create a new branch for your feature or bug fix.
-Commit your changes and open a pull request.
