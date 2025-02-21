@@ -1,0 +1,23 @@
+# Ignore Python bytecode & cache in your source folder
+dbpedia_hierarchy/__pycache__/
+dbpedia_hierarchy/*.py[cod]
+dbpedia_hierarchy/*$py.class
+
+# Ignore your virtual environment
+venv/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore common IDE/Editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore Python test coverage / logs (optional)
+*.log
+.cache/
+.coverage
+htmlcov/
